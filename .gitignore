@@ -1,0 +1,7 @@
+.idea/
+build/
+.gradle/
+XPBottler.iml
+gradlew
+gradlew.bat
+gradle/

@@ -1,0 +1,12 @@
+name: XPBottler
+version: @version@
+main: me.stephenhendricks.xpbottler.XPBottler
+description: A plugin to store your player experience in glass bottles
+authors: [z1haze]
+api-version: 1.13
+commands:
+  xpb:
+    description: Converts your XP to XP Bottles
+    usage: /<command>
+    permission: xpbottler.use
+    permission-message: You don't have the <permission> permission
